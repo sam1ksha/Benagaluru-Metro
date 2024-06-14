@@ -1,0 +1,127 @@
+NO.,LINE,STATION,CODE,DISTANCE,COST,Parking
+0,Purple,Challaghatta,CLT,0,10,Available
+1,Purple,Kengeri,KNG,1,10,Available
+2,Purple,Kengeri Bus Terminal,KBT,2,10,Available
+3,Purple,Pattanagere,PTG,1,10,Available
+4,Purple,Jnanabharati,JNB,2,10,Available
+5,Purple,Rajarajeshwari Nagar,RJN,0.5,10,Available
+6,Purple,Nayandanahalli,NYH,2,10,Available
+7,Purple,Mysuru Road,MYR,1,10,Available
+8,Purple,Deepanjali Nagar,DPN,1,10,Available
+9,Purple,Attiguppe,ATG,1,10,Available
+10,Purple,Vijayanagar,VJN,1,10,Available
+11,Purple,Hosahalli,HSH,1,10,Available
+12,Purple,Magadi Road,MDR,1.5,10,Available
+13,Purple,KSR City Railway stn.,KSR,1,10,Available
+14,Purple,Kempegowda Stn. Majestic ,KSM,1,10,Available
+15,Purple,Central College,CTC,1.8,10,Available
+16,Purple,Vidhana Soudha,VSD,1,10,Available
+17,Purple,Cubbon Park,CBP,1,10,Available
+18,Purple,Mahatma Gandhi Road,MGR,1,10,Available
+19,Purple,Trinity,TNT,1,10,Available
+20,Purple,Halasuru,HLS,1,10,Available
+21,Purple,Indiranagar,IDN,1,10,Available
+22,Purple,Swami Vivekananda Road,SVR,1,10,Available
+23,Purple,Baiyappanahalli,BYP,1,10,Available
+24,Purple,Benniganahalli,BNH,1,10,Available
+25,Purple,KR Puram,KRP,1,10,Available
+26,Purple,Singayyanapalya,SGP,2,10,Available
+27,Purple,Garudacharpalya,GCP,1,10,Available
+28,Purple,Hoodi,HOO,1,10,Available
+29,Purple,Seetharampalya,SRP,1,10,Available
+30,Purple,Kundalahalli,KUH,1,10,Available
+31,Purple,Nallurhalli,NLH,1,10,Available
+32,Purple,Sri Sathya Sai Hospital,SSH,1,10,Available
+33,Purple,Pattandur Agrahara,PAG,1,10,Available
+34,Purple,Kadugodi Tree Park,KTP,1,10,Available
+35,Purple,Channasandra(Hopefarm),CNS,1,10,Available
+36,Purple,Whitefield(Kadugodi),WTF,1,10,Available
+37,Green,Silk Institute,SLK,0,,Available
+38,Green,Thalaghattapura,TGP,1,10,Available
+39,Green,Vajarahalli,VJH,0.5,10,Available
+40,Green,Doddakallasandra,DKS,1,10,Available
+41,Green,Konankunte Cross,KKC,1,10,Available
+42,Green,Yelechenahalli,YCH,1,10,Available
+43,Green,Jayaprakash Nagar ,JPN,1,10,Available
+44,Green,Banashankari,BNS,1,10,Available
+45,Green,Rashtreeya Vidyalaya Road ,RVR,2,10,Available
+46,Green,Jayanagar ,JAY,2,10,Available
+47,Green,South End Circle,SEC,1,10,Available
+48,Green,Lalbagh,LAL,1,10,Available
+49,Green,National College,NTC,1,10,Available
+50,Green,Krishna Rajendra Market,KRM,1,10,Available
+51,Green,Chickpete,CHK,1,10,Available
+52,Green,Sampige Road,SMP,3,10,Available
+53,Green,Srirampura,SRI,1,10,Available
+54,Green,Kuvempu Road,KMP,1,10,Available
+55,Green,Rajajinagar,RJN,1.1,10,Available
+56,Green,Mahalakshmi Layout,MHL,1.3,10,Available
+57,Green,Sandal Soap Factory,SSF,1.1,10,Available
+58,Green,Yeshwantpur,YES,1,10,Available
+59,Green,Goraguntepalya,GGP,1,10,Available
+60,Green,Peenya,PEN,3,10,Available
+61,Green,Peenya Industry,PIN,1,10,Available
+62,Green,Jalahalli,JAL,3,10,Available
+63,Green,Dasarahalli,DAS,1,10,Available
+64,Green,Nagasandra,NAG,1.5,10,Available
+65,Green,Manjunathanagar,MAN,1,10,Available
+66,Green,Chikkabidarakallu,CKK,1,10,Available
+67,Green,Madavara,MDV,1,10,Available
+68,Yellow,Bommasandra,BMS,0,10,Available
+69,Yellow,Hebbagodi,HEB,1.5,10,Available
+70,Yellow,Huskur Road,HSR,2,10,Available
+71,Yellow,Konnapana Agrahara,KKA,2,10,Available
+72,Yellow,Electronic City,ELC,1.5,10,Available
+73,Yellow,Beratena Agrahara,BAG,1.5,10,Available
+74,Yellow,Hosa Road,HSR,1.5,10,Available
+75,Yellow,Singasandra,SNS,2,10,Available
+76,Yellow,Kudlu Gate,KUD,2,10,Available
+77,Yellow,Hongasandra,HNS,2,10,Available
+78,Yellow,Bommanahalli,BMH,2,10,Available
+79,Yellow,Central Silk Board ,CSK,1.5,10,Available
+80,Yellow,BTM Layout,BTM,2,10,Available
+81,Yellow,Jayadeva Hospital ,JYH,1,10,Available
+82,Yellow,Ragigudda,RGG,2,10,Available
+83,Pink,Kalena Agrahara,KAG,0,,Available
+84,Pink,Hulimavu,HUL,1,10,Available
+85,Pink,IIM Bangalore,IIM,2.5,15,Available
+86,Pink,JP Nagar 4th Phase,JPF,3,15,Available
+87,Pink,Tavarekere,TVK,4,20,Available
+88,Pink,Dairy Circle,DCR,2,10,Available
+89,Pink,Lakkasandra,LKS,1,10,Available
+90,Pink,Langford Town,LFR,2,10,Available
+91,Pink,Rashtriya Military School,RMS,2,10,Available
+92,Pink,Shivajinagar,SHV,3.5,15,Available
+93,Pink,Cantonment,CNT,3,15,Available
+94,Pink,Pottery Town,PTT,2,10,Available
+95,Pink,Tannery Road,TAN,2,10,Available
+96,Pink,Venkateshpura,VNK,1.5,10,Available
+97,Pink,Kadugundanahalli ,KGH,1,10,Available
+98,Pink,Nagawara (114-115),NGW,2.5,15,Available
+99,Blue,HSR Layout ,HSR,,,Available
+100,Blue,Agara Lake ,AGR,1,10,Available
+101,Blue,Iblur,IBL,3,15,Available
+102,Blue,Bellandur,BLN,3,15,Available
+103,Blue,Devarabeesanahalli,DVB,3.5,15,Available
+104,Blue,Kadubeesanahalli,KDB,3,15,Available
+105,Blue,Marathahalli,MRH,7,30,Available
+106,Blue,ISRO (Karthik Nagar),ISR,1.5,10,Available
+107,Blue,Doddanekundi,DDK,1.5,10,Available
+108,Blue,DRDO Sports Complex,DRD,1.5,10,Available
+109,Blue,Mahadevapura,MPU,3.5,20,Available
+110,Blue,Kasturinagar,KTN,3,15,Available
+111,Blue,Horamavu,HOM,3,15,Available
+112,Blue,HRBR Layout,HRB,4,20,Available
+113,Blue,Kalyan Nagar,KAL,3.5,20,Available
+114,Blue,HBR Layout,HBR,1.5,10,Available
+115,Blue,Veerannapalya,VRP,3.5,20,Available
+116,Blue,Kempapura,KPP,2.5,15,Available
+117,Blue,Hebbal,HBL,1,10,Available
+118,Blue,Kodigehalli,KDH,6.5,30,Available
+119,Blue,Jakkur Cross,JKK,4,20,Available
+120,Blue,Yelahanka,YEL,6.5,30,Available
+121,Blue,Bagalur Cross,BGL,2,10,Available
+122,Blue,Bettahalasur,BTT,6,30,Available
+123,Blue,Doddajala,DDJ,8,30,Available
+124,Blue,Airport City,ARP,7,30,Available
+125,Blue,Kempegowda International Airport,KIA,7,30,Available
